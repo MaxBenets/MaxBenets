@@ -8,4 +8,4 @@
 ## My contacts 📲:
 ### Mail: maksimbenets@gmail.com
 ### Telegram: [@RezzitCode](https://t.me/RezzitCode)
-### Instagram: [rezz.web](https://www.instagram.com/rezz.web)
+### Instagram: [@rezz.web](https://www.instagram.com/rezz.web)
