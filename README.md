@@ -12,6 +12,7 @@
   <li>CSS 3</li>
   <li>SCSS and SASS</li>
   <li>BOOTSTRAP</li>
+  <li>GIT, GITHUB</li>
 </ul>
 
 ## My contacts 📲:
