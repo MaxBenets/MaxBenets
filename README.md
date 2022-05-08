@@ -3,7 +3,16 @@
 ### I am a front-end developer. Developing web pages of React and Redux. Previously developed on Vue. I love development, games and anime.
 
 ## I use technologies & languages 👨‍💻:
-### React.js, Redux, axios, Javascript, HTML5, CSS3, SCSS, API
+<ul>
+  <li>React</li>
+  <li>Redux, react-redux, redux-form</li>
+  <li>axios, API</li>
+  <li>Javascript (ES6+)</li>
+  <li>HTML 5</li>
+  <li>CSS 3</li>
+  <li>SCSS and SASS</li>
+  <li>BOOTSTRAP</li>
+</ul>
 
 ## My contacts 📲:
 ### Mail: maksimbenets@gmail.com
