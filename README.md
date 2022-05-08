@@ -1,4 +1,4 @@
-## Hello, my name is Maksym! 👋
+# Hello 👋. My name is Maksym!
 
 ### I am a front-end developer. Developing web pages of React and Redux. Previously developed on Vue. I love development, games and anime.
 
