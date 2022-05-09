@@ -4,7 +4,7 @@
 
 ### I am a front-end developer from Lviv. Developing web pages of React and Redux. Previously developed on Vue. I like development, games and anime.
 
-## I use technologies & languages 👨‍💻:
+## I use technologies and languages 👨‍💻:
 <ul>
   <li>React</li>
   <li>Redux, react-redux, redux-form</li>
