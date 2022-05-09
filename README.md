@@ -1,6 +1,6 @@
 # Hello, World! My name is Maksym! 
 
-### I am a front-end developer. Developing web pages of React and Redux. Previously developed on Vue. I like development, games and anime.
+### I am a front-end developer from Lviv. Developing web pages of React and Redux. Previously developed on Vue. I like development, games and anime.
 
 ## I use technologies & languages 👨‍💻:
 <ul>
