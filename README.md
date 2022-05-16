@@ -17,6 +17,8 @@
   <li>GIT, GITHUB</li>
 </ul>
 
+Check my javascript module: [toggle.js](https://github.com/RezzCode/toggle)
+
 ## My contacts 📲:
 ### Mail: maksimbenets@gmail.com
 ### Telegram: [@RezzitCode](https://t.me/RezzitCode)
