@@ -13,7 +13,7 @@
   <li>HTML 5</li>
   <li>CSS 3</li>
   <li>SCSS and SASS</li>
-  <li>BOOTSTRAP</li>
+  <li>BOOTSTRAP REACT-BOOTSTRAP</li>
   <li>GIT, GITHUB</li>
 </ul>
 
