@@ -7,7 +7,7 @@
 ## I use technologies and languages 👨‍💻:
 <ul>
   <li>React</li>
-  <li>Redux, react-redux, redux-form</li>
+  <li>Redux, react-redux, redux-form, redux-thunk</li>
   <li>axios, API</li>
   <li>Javascript (ES6+)</li>
   <li>HTML 5</li>
