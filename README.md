@@ -1,5 +1,3 @@
-> Beware of bugs in the above code; I have only proved it correct, not tried it.
-
 # Hello, World! My name is Maksym! 
 
 ### I am a front-end developer from Ukraine Lviv. Developing web pages of React and Redux. Previously developed on Vue. I like development, games and anime.
