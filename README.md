@@ -1,4 +1,4 @@
-# Hello, My name is Maksym! 
+# Hello, My name is Maksym 👋
 
 ### I am a *front-end developer* from Lviv. Like to play tennis 🎾
 
