@@ -3,7 +3,7 @@
 ### I am a *front-end developer* from Lviv. Like to play tennis 🎾
 
 ### I use technologies 👨‍💻:
-REACT, REDUX, AXIOS, JAVASCRIPT, HTML, CSS, SCSS, BOOTSTRAP
+- REACT, REDUX, AXIOS, JAVASCRIPT, HTML, CSS, SCSS, BOOTSTRAP
 
 ### 📩 Contact me: maksimbenets@gmail.com
 ### 🌍 My website: [maxbenets.github.io](https://maxbenets.github.io/)
