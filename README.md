@@ -6,9 +6,9 @@
 REACT, REDUX, REST API, JAVASCRIPT, HTML, CSS, SCSS
 
 ### 📩 Contact me: maksimbenets@gmail.com
-### 🌍 My website: [maxbenets.github.io](https://maxbenets.github.io/)
+### 🌍 My website: [maxbenets.netlify.app](https://maxbenets.netlify.app/)
 
 <br>
 
-[ <img src = "https://img.icons8.com/color/500/500/telegram-app.png" width = "40px"/> ](https://t.me/RezzitCode) ⠀
+[ <img src = "https://img.icons8.com/color/500/500/telegram-app.png" width = "40px"/> ](https://t.me/maxbenets) ⠀
 [ <img src = "https://img.icons8.com/fluency/500/500/instagram-new.png" width = "40px" /> ](https://www.instagram.com/maxbenets)
